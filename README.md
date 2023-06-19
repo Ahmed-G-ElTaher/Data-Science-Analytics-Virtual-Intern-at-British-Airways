@@ -2,7 +2,7 @@
 # _________________________________________________________
 
 ## First Task : Web scraping to gain company insights
-### Scrape and analyse customer review data to uncover findings for British Airways
+### Scrape and analyze customer review data to uncover findings for British Airways
 
  ### - Scrape data from the web 
    #### i use a website called Skytrax. ( https://www.airlinequality.com/airline-reviews/british-airways )
